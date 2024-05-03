@@ -60,7 +60,7 @@ enable_vga_console(void)
     printf("                 | |/ / -_) __/ __/ __/ _ `(_-<   | |/ / /|_/ /                 ", "\n");
     printf("                 |___/\\__/\\__/\\__/_/  \\_,_/___/   |___/_/  /_/                  ", "\n");
     printf("                                                                                ", "\n");
-    printf("                                  V2.8.4  (3DFX)                                ", "\n");
+    printf("                                  V2.9.0  (3DFX)                                ", "\n");
     printf("                                                                                ", "\n");
     printf("                                                                                ", "\n");
     printf("                                                                                ", "\n");
